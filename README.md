@@ -11,7 +11,7 @@
 <!-- WAKATIME & PROFILE VIEWS -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gbhermont&style=for-the-badge&color=F1C338&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Tiago-D-Nocce&style=for-the-badge&color=F1C338&label=PROFILE+VIEWS)
 <a href="https://wakatime.com/@fbabce63-4ed7-460d-b0c6-9b385d3073ab">
   <img src="https://wakatime.com/badge/user/fbabce63-4ed7-460d-b0c6-9b385d3073ab.svg?style=for-the-badge&color=c9a84c&labelColor=111111" alt="Total time coded since Sep 10 2026" />
 </div>
@@ -20,7 +20,7 @@
 ----
 
 <!-- INÍCIO -->
-<img src="images/pomba.gif" alt="Gabriel Hermont" align="right" height="330" hspace="24" />
+<img src="images/pomba.gif" alt="Tiago Nocce" align="right" height="330" hspace="24" />
 
 # Olá, eu sou o Tiago Nocce! 👋
 
@@ -41,13 +41,9 @@ Busco estar sempre atualizado com o mercado participando de eventos da comunidad
 ### 📍 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-hermont-19a1a73b5/" title="LinkedIn"><img width="48" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23e8dd6f" /></a>
+  <a href="https://www.linkedin.com/in/tiago-nocce-b23a67254/" title="LinkedIn"><img width="48" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23e8dd6f" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gbhermont" title="GitHub"><img width="48" src="https://cdn.simpleicons.org/github/e8dd6f" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://letterboxd.com/gbhermont/" title="Letterboxd"><img width="48" src="https://cdn.simpleicons.org/letterboxd/e8dd6f" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.last.fm/user/kibbezz" title="Last.fm"><img width="48" src="https://cdn.simpleicons.org/lastdotfm/e8dd6f" /></a>
+  <a href="https://github.com/Tiago-D-Nocce" title="GitHub"><img width="48" src="https://cdn.simpleicons.org/github/e8dd6f" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:tiagonoccecontato@gmail.com" title="E-mail"><img width="48" src="https://cdn.simpleicons.org/gmail/e8dd6f" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,20 +73,20 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
 <table align="center">
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=gbhermont&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&locale=en" alt="streak"/>
+        <img src="https://streak-stats.demolab.com?user=Tiago-D-Nocce&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&locale=en" alt="streak"/>
       </td>
     </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbhermont&theme=holi&animation=sequence&title_color=c9a84c&text_color=c9a84c&bg_color=111111&border_color=c9a84c&icon_color=c9a84c&chart_color=c9a84c" alt="GitHub Stats" width="430" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tiago-D-Nocce&theme=holi&animation=sequence&title_color=c9a84c&text_color=c9a84c&bg_color=111111&border_color=c9a84c&icon_color=c9a84c&chart_color=c9a84c" alt="GitHub Stats" width="430" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gbhermont&langs_count=8&layout=compact&locale=pt-br&cache_seconds=7200&hide_border=false&border_radius=10&border_color=c9a84c&bg_color=111111&title_color=c9a84c&text_color=e6e6e6&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" width="430" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tiago-D-Noccet&langs_count=8&layout=compact&locale=pt-br&cache_seconds=7200&hide_border=false&border_radius=10&border_color=c9a84c&bg_color=111111&title_color=c9a84c&text_color=e6e6e6&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" width="430" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbhermont&theme=holi&animation=sequence&title_color=c9a84c&text_color=e6e6e6&bg_color=111111&border_color=c9a84c&icon_color=c9a84c&chart_color=c9a84c" alt="GitHub Profile Details" width="880" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiago-D-Nocce&theme=holi&animation=sequence&title_color=c9a84c&text_color=e6e6e6&bg_color=111111&border_color=c9a84c&icon_color=c9a84c&chart_color=c9a84c" alt="GitHub Profile Details" width="880" />
     </td>
   </tr>
 </table>
@@ -170,7 +166,7 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
 
 ### 💢 TechBiz Forense Digital · Estagiário em Infraestrutura
 
-<img src="https://img.shields.io/badge/Março_2026_–_Atualmente-C9A227?style=flat-square" alt="Abril 2026 – Atualmente" />
+<img src="https://img.shields.io/badge/Abril_2026_–_Atualmente-C9A227?style=flat-square" alt="Abril 2026 – Atualmente" />
 
 
 - Atualmente ocupo aposição de Estagiário na TechBiz Forense Digital, onde tenho contato direto com servidores físicos e cloud computing baseado em AWS e Microsoft 365, englobando Azure, ambiente AD e Entra ID.

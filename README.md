@@ -22,7 +22,7 @@
 <!-- INÍCIO -->
 <img src="images/pomba.gif" alt="Tiago Nocce" align="right" height="330" hspace="24" />
 
-# Olá, eu sou o Tiago Nocce! Seja bem vindo a minha nova conta! 👋
+# Olá! Seja bem vindo a minha nova conta! 👋
 
 Estudante de Sistemas de Informação na PUC Minas e Estagiário de Infraestrutura de TI na TechBiz Forense Digital, com vivência prática na sustentação e otimização de ambientes corporativos. Minha atuação foca no suporte e gerenciamento de TI, incluindo a administração de identidades (Active Directory) e o gerenciamento de hardware (Servidores Dell/iDRAC), além de automação em implantação de sistemas operacionais usando Sysprep, Clonezilla e Rescuezilla.
 

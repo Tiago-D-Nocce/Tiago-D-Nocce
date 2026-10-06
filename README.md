@@ -92,6 +92,8 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
 <!-- TECNOLOGIAS -->
 # 💻 Ferramentas e Tecnologias
 
+<img align="right" height="750" src="technologies readme.gif" />
+
 ### Linguagens
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=c9a84c" alt="JavaScript" />
@@ -112,7 +114,7 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
   <img src="https://img.shields.io/badge/Microsoft_365-111111?style=for-the-badge&logo=microsoft-office&logoColor=c9a84c" alt="Microsoft 365" />
 </div>
 
-<br>
+<br clear="both">
 
 ----
 

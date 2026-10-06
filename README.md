@@ -13,7 +13,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tiago-D-Nocce&style=for-the-badge&color=F1C338&label=PROFILE+VIEWS)
 <a href="https://wakatime.com/@fbabce63-4ed7-460d-b0c6-9b385d3073ab">
-  <img src="https://wakatime.com/badge/user/fbabce63-4ed7-460d-b0c6-9b385d3073ab.svg?style=for-the-badge&color=c9a84c&labelColor=111111" alt="Total time coded since Sep 10 2026" />
+  <img src="https://wakatime.com/badge/user/fbabce63-4ed7-460d-b0c6-9b385d3073ab.svg?style=for-the-badge&color=c9a84c&labelColor=111111" alt="Total time coded" />
+</a>
 </div>
 
 
@@ -24,11 +25,11 @@
 
 # Olá, eu sou o Tiago Nocce! 👋
 
-Estudante de Sistemas de Informação na PUC Minas e atual Estagiário de Infraestrutura de TI na TechBiz Forense Digital. Tenho experiência prática no suporte e gerenciamento do ambiente corporativo de TI, atuando com administração de contas no Active Directory, gerenciamento de servidores físicos (Dell/iDRAC) e ferramentas de implantação e clonagem de sistemas (Sysprep, Clonezilla, Rescuezilla).
+Estudante de Sistemas de Informação na PUC Minas e Estagiário de Infraestrutura de TI na TechBiz Forense Digital, com vivência prática na sustentação e otimização de ambientes corporativos. Minha atuação foca no suporte e gerenciamento de TI, incluindo a administração de identidades (Active Directory) e o gerenciamento de hardware (Servidores Dell/iDRAC), além de automação em implantação de sistemas operacionais usando Sysprep, Clonezilla e Rescuezilla.
 
-Atualmente, estou direcionando minha carreira e meus estudos para Cloud Computing e governança. Tenho aprofundado meus conhecimentos práticos em arquitetura AWS (VPC, IAM, Security Groups, FinOps) e estou me preparando ativamente para as certificações AWS Certified Cloud Practitioner, Microsoft Azure AZ-900 e ITIL 4 Foundation. Além da forte base em infraestrutura, possuo vivência acadêmica com desenvolvimento em C#, modelagem de banco de dados (SQL) e prototipagem (Figma/PlantUML), competências aplicadas no desenvolvimento de sistemas como o projeto AGENDACAR.
+Atualmente, direciono minha carreira e meus estudos para Cloud Computing e governança de TI. Tenho aprofundado meus conhecimentos em arquiteturas de nuvem, especialmente em AWS (VPC, IAM, Security Groups, FinOps), e estou em preparação ativa para certificações fundamentais do mercado: AWS Certified Cloud Practitioner, Microsoft Azure AZ-900 e ITIL 4 Foundation. 
 
-Busco estar sempre atualizado com o mercado participando de eventos da comunidade, como o AWS Community Day, e colaborando em equipe para a otimização contínua dos processos e da segurança da infraestrutura de TI.
+Além da base sólida em infraestrutura, possuo vivência acadêmica com desenvolvimento em C#, modelagem de banco de dados (SQL) e prototipagem (Figma/PlantUML) – habilidades que apliquei na criação de sistemas como o projeto AGENDACAR. Sou engajado com a comunidade de tecnologia, participando de eventos como o AWS Community Day, sempre em busca das melhores práticas para otimização contínua e segurança da informação.
 
 <br clear="right"/>
 
@@ -51,20 +52,20 @@ Busco estar sempre atualizado com o mercado participando de eventos da comunidad
 
 ### 🔎 Meus objetivos
 
-Busco atuar em projetos que cada vez mais me apresentem não apenas a área de tecnologia, mas novas formas de pensar e solucionar problemas reais do mundo ao nosso redor. Foco sempre em evoluir e utilizar habilidades como o raciocínio lógico, capacidade crítica e pensar fora da caixa para atingir resultados cada vez mais surpreendentes, sempre com determinação e vontade! 
+Busco integrar equipes e projetos que utilizem a tecnologia não apenas como ferramenta, mas como meio estratégico para solucionar problemas reais. Foco no desenvolvimento contínuo do raciocínio lógico, da capacidade crítica e do pensamento estruturado para entregar resultados consistentes e inovadores. 
 
-Para além, incremento o uso das mais diversas ferramentas de IA's nesse processo, entendendo como ela pode aumentar minha produtividade e meus conhecimentos, trabalhando em conjunto a mim, e não para mim.
+Além disso, exploro ativamente o potencial das inteligências artificiais no fluxo de trabalho, compreendendo como essas ferramentas podem escalar produtividade, enriquecer conhecimentos técnicos e atuar como um diferencial competitivo na gestão de infraestrutura e desenvolvimento.
 
 ### 🎓 Formação Acadêmica
 
-- **Bacharel em Sistemas de Informação** | PUC Minas 
-  - Início: 2025 · *(em curso)*
+- **Bacharelado em Sistemas de Informação** | PUC Minas 
+  - Previsão de Formação: 2028 *(em curso)*
 
 ### 🤝 Habilidades e Soft Skills
 
-Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonomia
+Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonomia e Resolução de Problemas
 
-**Idiomas:** Português (nativo) · Inglês (Intermediário - Certificado emitido pelo Kumon) 
+**Idiomas:** Português (Nativo) · Inglês (Intermediário - Certificação Kumon) 
 
 <br clear="left"/>
 
@@ -73,7 +74,7 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
 <table align="center">
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=Tiago-D-Nocce&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&locale=en" alt="streak"/>
+        <img src="https://streak-stats.demolab.com?user=Tiago-D-Nocce&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&locale=pt_BR" alt="streak"/>
       </td>
     </tr>
   <tr>
@@ -81,7 +82,7 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tiago-D-Nocce&theme=holi&animation=sequence&title_color=c9a84c&text_color=c9a84c&bg_color=111111&border_color=c9a84c&icon_color=c9a84c&chart_color=c9a84c" alt="GitHub Stats" width="430" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tiago-D-Noccet&langs_count=8&layout=compact&locale=pt-br&cache_seconds=7200&hide_border=false&border_radius=10&border_color=c9a84c&bg_color=111111&title_color=c9a84c&text_color=e6e6e6&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" width="430" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tiago-D-Nocce&langs_count=8&layout=compact&locale=pt-br&cache_seconds=7200&hide_border=false&border_radius=10&border_color=c9a84c&bg_color=111111&title_color=c9a84c&text_color=e6e6e6&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" width="430" />
     </td>
   </tr>
   <tr>
@@ -126,7 +127,6 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
   <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude&logoColor=c9a84c" alt="Claude" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge&logo=githubcopilot&logoColor=c9a84c" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Gemini_API-111111?style=for-the-badge&logo=googlegemini&logoColor=c9a84c" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Kiro-111111?style=for-the-badge&logoColor=c9a84c" alt="Kiro" />
   <img src="https://img.shields.io/badge/Codex_GPT-111111?style=for-the-badge&logo=openai&logoColor=c9a84c" alt="Codex GPT" />
 </div>
 
@@ -156,25 +156,19 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
 </div>
 
 <br clear="right"/>
-
 <br clear="both">
 
 ----
 
 <!-- EXPERIÊNCIA PROFISSIONAL -->
-# 🥀 Experiência Profissional
+# 💼 Experiência Profissional
 
-### 💢 TechBiz Forense Digital · Estagiário em Infraestrutura
+### 💢 TechBiz Forense Digital · Estagiário em Infraestrutura de TI
 
 <img src="https://img.shields.io/badge/Abril_2026_–_Atualmente-C9A227?style=flat-square" alt="Abril 2026 – Atualmente" />
 
-
-- Atualmente ocupo aposição de Estagiário na TechBiz Forense Digital, onde tenho contato direto com servidores físicos e cloud computing baseado em AWS e Microsoft 365, englobando Azure, ambiente AD e Entra ID.
-Para além, trabalho com a gestão e controle de inventário de ativos de TI, fornecendo suporte para manutenção de software e hardware. Em conjunto à essas atividades, procuro sempre ampliar bases de conhecimento, me capacitando 
-e produzindo documentação técnica constantemente para escalar a base teórica da empresa.
-
-- No meu dia a dia, lido com atendimento ao usuário, resolução de problemas, trabalho em equipe e acompanho e aprendo sobre boas práticas em Infraestrutura.
-
-
+- Atuação direta na sustentação e suporte do parque tecnológico corporativo. Sou responsável pelo atendimento eficiente ao usuário (Service Desk), atuando no diagnóstico e resolução ágil de problemas de hardware e software, sempre focado em assegurar a continuidade dos processos internos da empresa.
+- Tenho papel ativo na gestão de ambientes de nuvem e servidores físicos, interagindo com tecnologias como Microsoft 365, Microsoft Azure, Active Directory e Entra ID. Realizo também a gestão rigorosa e o controle do inventário de ativos de TI.
+- Em paralelo à rotina operacional, sou encarregado de documentar e padronizar processos, desenvolvendo manuais e documentações técnicas consistentes que servem para escalar a base de conhecimento do setor e otimizar o tempo de resposta da equipe.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A560,100:6B6142&height=120&reversal=true&section=footer"/>

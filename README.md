@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="images/gif toque.gif" width="100%" alt="banner"/>
+  <img src="gif toque.gif" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
@@ -20,7 +20,7 @@
 ----
 
 <!-- INÍCIO -->
-<img src="images/pomba.gif" alt="Tiago Nocce" align="right" height="330" hspace="24" />
+<img src="pomba.gif" alt="Tiago Nocce" align="right" height="330" hspace="24" />
 
 # Olá! Seja bem vindo a minha nova conta! 👋
 
@@ -36,7 +36,7 @@ Além da base sólida em infraestrutura, possuo vivência acadêmica com desenvo
 
 # 👾 Sobre mim
 
-<img align="left" height="780" style="margin-right: 30px;" src="images/aboutme.jfif" />
+<img align="left" height="780" style="margin-right: 30px;" src="aboutme.jfif" />
 
 ### 📍 Onde me encontrar
 

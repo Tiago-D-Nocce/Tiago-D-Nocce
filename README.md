@@ -59,7 +59,7 @@ Busco integrar equipes e projetos que utilizem a tecnologia não apenas como fer
   - Fev. de 2025 – o momento
 
 - **Curso Técnico Integrado - Técnico em TI** | COTEMIG Colégio e Faculdade
-  - Fev. de 2020 – nov. de 2022
+  - Fev. de 2020 – nov. de 2023
   - *Competências principais:* JavaScript, C#, MySQL, HTML5, PHP, Redes de computadores, Segurança da informação.
 
 ### 🤝 Habilidades e Soft Skills

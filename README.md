@@ -17,7 +17,6 @@
 </a>
 </div>
 
-
 ----
 
 <!-- INÍCIO -->
@@ -54,12 +53,14 @@ Além da base sólida em infraestrutura, possuo vivência acadêmica com desenvo
 
 Busco integrar equipes e projetos que utilizem a tecnologia não apenas como ferramenta, mas como meio estratégico para solucionar problemas reais. Foco no desenvolvimento contínuo do raciocínio lógico, da capacidade crítica e do pensamento estruturado para entregar resultados consistentes e inovadores. 
 
-Além disso, exploro ativamente o potencial das inteligências artificiais no fluxo de trabalho, compreendendo como essas ferramentas podem escalar produtividade, enriquecer conhecimentos técnicos e atuar como um diferencial competitivo na gestão de infraestrutura e desenvolvimento.
-
 ### 🎓 Formação Acadêmica
 
 - **Bacharelado em Sistemas de Informação** | PUC Minas 
-  - Previsão de Formação: 2028 *(em curso)*
+  - Fev. de 2025 – o momento
+
+- **Curso Técnico Integrado - Técnico em TI** | COTEMIG Colégio e Faculdade
+  - Fev. de 2020 – nov. de 2022
+  - *Competências principais:* JavaScript, C#, MySQL, HTML5, PHP, Redes de computadores, Segurança da informação.
 
 ### 🤝 Habilidades e Soft Skills
 
@@ -85,90 +86,89 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Autonom
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tiago-D-Nocce&langs_count=8&layout=compact&locale=pt-br&cache_seconds=7200&hide_border=false&border_radius=10&border_color=c9a84c&bg_color=111111&title_color=c9a84c&text_color=e6e6e6&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" width="430" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiago-D-Nocce&theme=holi&animation=sequence&title_color=c9a84c&text_color=e6e6e6&bg_color=111111&border_color=c9a84c&icon_color=c9a84c&chart_color=c9a84c" alt="GitHub Profile Details" width="880" />
-    </td>
-  </tr>
 </table>
 
 ----
 <!-- TECNOLOGIAS -->
 # 💻 Ferramentas e Tecnologias
 
-<img align="right" height="750" src="images/technologies readme.gif" />
-
 ### Linguagens
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=c9a84c" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=c9a84c" alt="Python" />
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=c9a84c" alt="Java" />
 </div>
 
-### Frameworks e Bibliotecas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=c9a84c" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=c9a84c" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Thymeleaf-111111?style=for-the-badge&logo=thymeleaf&logoColor=c9a84c" alt="Thymeleaf" />
-</div>
-
-### Arquitetura e Cloud Computing
-
+### Arquitetura, Cloud e Infraestrutura
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=c9a84c" alt="Azure" />
-</div>
-
-### IA no Desenvolvimento
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude&logoColor=c9a84c" alt="Claude" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge&logo=githubcopilot&logoColor=c9a84c" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Gemini_API-111111?style=for-the-badge&logo=googlegemini&logoColor=c9a84c" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Codex_GPT-111111?style=for-the-badge&logo=openai&logoColor=c9a84c" alt="Codex GPT" />
+  <img src="https://img.shields.io/badge/Windows_Server-111111?style=for-the-badge&logo=windows&logoColor=c9a84c" alt="Windows Server" />
 </div>
 
 ### Gestão e Colaboração
-
 <div align="left">
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=c9a84c" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=c9a84c" alt="GitHub" />
   <img src="https://img.shields.io/badge/Microsoft_365-111111?style=for-the-badge&logo=microsoft-office&logoColor=c9a84c" alt="Microsoft 365" />
 </div>
 
-### IDEs
-
-<div align="left">
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-111111?style=for-the-badge&logo=intellij-idea&logoColor=c9a84c" alt="IntelliJ IDEA" />
-</div>
-
-### Design e Produtividade
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=c9a84c" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Miro-111111?style=for-the-badge&logo=miro&logoColor=c9a84c" alt="Miro"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-111111?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=c9a84c" alt="Adobe Photoshop"/>
-  <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=Canva&logoColor=c9a84c" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-111111?style=for-the-badge&logo=microsoft-office&logoColor=c9a84c" alt="Microsoft Office"/>
-</div>
-
-<br clear="right"/>
-<br clear="both">
+<br>
 
 ----
 
 <!-- EXPERIÊNCIA PROFISSIONAL -->
 # 💼 Experiência Profissional
 
-### 💢 TechBiz Forense Digital · Estagiário em Infraestrutura de TI
+### 💢 TechBiz Forense Digital
+- **Estagiário de Infraestrutura de TI** | *Abr. de 2026 – o momento*
+  Administração de contas de usuários (Active Directory, Microsoft 365, Google Workspace), gestão e inventário de ativos de TI, monitoramento de links e atendimento ágil de hardware e software.
+- **Auxiliar de Recursos Humanos / Aprendiz** | *Nov. de 2024 – Mar. de 2026*
+  Gestão de documentos e ativos (TopDesk, SOC, Sharepoint), comunicação interna, e suporte operacional nos departamentos Pessoal e de Infraestrutura.
 
-<img src="https://img.shields.io/badge/Abril_2026_–_Atualmente-C9A227?style=flat-square" alt="Abril 2026 – Atualmente" />
+### 🛒 Lojas Renner S.A.
+- **Expedidor** | *Mar. de 2024 – Set. de 2024*
+  Atendimento ao cliente, emissão de NFs, organização de estoque e reposição de produtos na área de vendas.
 
-- Atuação direta na sustentação e suporte do parque tecnológico corporativo. Sou responsável pelo atendimento eficiente ao usuário (Service Desk), atuando no diagnóstico e resolução ágil de problemas de hardware e software, sempre focado em assegurar a continuidade dos processos internos da empresa.
-- Tenho papel ativo na gestão de ambientes de nuvem e servidores físicos, interagindo com tecnologias como Microsoft 365, Microsoft Azure, Active Directory e Entra ID. Realizo também a gestão rigorosa e o controle do inventário de ativos de TI.
-- Em paralelo à rotina operacional, sou encarregado de documentar e padronizar processos, desenvolvendo manuais e documentações técnicas consistentes que servem para escalar a base de conhecimento do setor e otimizar o tempo de resposta da equipe.
+### 📚 Kumon Brasil
+- **Estagiário de Comunicação e Marketing** | *Nov. de 2023 – Mar. de 2024*
+  Análise de novas matrículas, gestão de dados de inventário de alunos, tráfego pago e gestão de Social Media.
 
+### 🧠 SUPERA Ginástica para o Cérebro
+- **Auxiliar Administrativo / Aprendiz** | *Jan. de 2021 – Dez. de 2022*
+  Organização de documentos, rotinas administrativas, auxílio financeiro e controle de agenda.
+
+----
+
+<!-- PROJETOS -->
+# 🚀 Projetos em Destaque
+
+- 🔍 **TechBiz Forense Digital: Curitiba (PR)** | *Mai. de 2025 – Ago. de 2026*
+  Montagem e configuração de FURIA EXTRACTION's para investigações forenses em parceria estratégica com a Polícia Científica e Polícia Civil do Estado do Paraná (PCPR).
+- 🧪 **Pesticide Tracker (PUC Minas)** | *Fev. de 2025 – Nov. de 2025*
+  Desenvolvimento de sistema voltado à análise de impacto de ingredientes ativos presentes em pesticidas, considerando regulamentações e exigências específicas de exportação.
+
+----
+
+<!-- CERTIFICAÇÕES -->
+# 🏆 Certificações e Cursos
+
+- **Microsoft:** Habilidades Aplicadas: introdução às tarefas de gerenciamento do Azure
+- **Google:** Technical Support Fundamentals
+- **DIO:** Introdução a Experiência Microsoft Azure Cloud Native
+- **Cisco:** Introduction to Cybersecurity
+- **Red Team Leaders:** Certified Cybersecurity Educator Professional (CCEP)
+- **Solyd Offensive Security:** Introdução ao Hardware Hacking
+- **TechBiz Forense Digital:** MMC: FURIA Extraction & Análise de Dados - UFED Reader
+- **Udemy:** Active Directory PRO + Hyper-V + Windows Server 2022
+- **FGV:** Termos de uso e políticas de privacidade (LGPD)
+
+----
+
+<!-- VOLUNTARIADO -->
+# 💚 Voluntariado
+
+- 🧒 **Monitor Voluntário | Code Club Brasil** | *2022 e 2023*
+  Atuação na 7ª e 8ª Edições do projeto, fornecendo apoio à facilitação de oficinas e aulas de programação (Scratch, Python, HTML/CSS) para desenvolvimento de crianças e jovens.
+
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A560,100:6B6142&height=120&reversal=true&section=footer"/>

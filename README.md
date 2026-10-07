@@ -41,7 +41,7 @@ Além da base sólida em infraestrutura, possuo vivência acadêmica com desenvo
 ### 📍 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tiago-nocce-b23a67254/" title="LinkedIn"><img width="48" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23e8dd6f" /></a>
+  <a href="https://www.linkedin.com/in/tiagonocce/" title="LinkedIn"><img width="48" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23e8dd6f" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Tiago-D-Nocce" title="GitHub"><img width="48" src="https://cdn.simpleicons.org/github/e8dd6f" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
